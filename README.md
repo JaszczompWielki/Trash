@@ -1,1 +1,1 @@
-# Trash
+# My project's README
